@@ -71,7 +71,4 @@ int main(int argc, char* argv[])
 	closesocket(ConnectSocket);
 	WSACleanup();
 	return 0;
-
-
 }
-
